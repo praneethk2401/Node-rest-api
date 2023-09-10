@@ -24,15 +24,15 @@ This is a RESTful API built with Node.js and Express.js, which provides basic fu
 ## Installation
 
 1. Clone the repository
-   git clone https://github.com/yourusername/node-rest-api.git
+   -git clone https://github.com/yourusername/node-rest-api.git
 2. Change the working directory
-   cd node-rest-api
+   - cd node-rest-api
 3. Install dependencies
-   npm install
+   - npm install
 4. Create `.env` file in root directory and add your MongoDB URI, like so:
-   MONGO_URL=your_mongodb_uri
+   -MONGO_URL=your_mongodb_uri
 5. Run the app
-   nodemon index.js
+   -nodemon index.js
 
 ## API Endpoints
 
@@ -54,8 +54,7 @@ This is a RESTful API built with Node.js and Express.js, which provides basic fu
 - `GET /api/posts/:id`: Get a post
 - `GET /api/posts/timeline/all`: Get timeline posts
 
-###Postman API documentation
+## Postman API documentation
 https://documenter.getpostman.com/view/26350092/2s9YC1XEmN
-
 ## License
 This project is licensed under the ISC License.
