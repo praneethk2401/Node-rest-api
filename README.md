@@ -1,5 +1,7 @@
 # Node REST API
 
+![REST API](https://github.com/praneethk2401/Node-rest-api/assets/69918295/6a6238e9-6779-44ac-8d66-dd4da5fcd168)
+
 This is a RESTful API built with Node.js and Express.js, which provides basic functionalities of a social media application.
 
 ## Features
